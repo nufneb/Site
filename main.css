@@ -1,0 +1,13 @@
+html{
+		font-size: 20px
+	}
+body {
+	background-color: #444;
+	color: #ddd;
+}
+a:link{
+	color: #eaa;
+}
+a:visited{
+	color: #faf;
+}
